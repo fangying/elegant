@@ -17,7 +17,7 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: Baskerville, Garamond, Georgia, 'DejaVu Serif', 'Times New Roman', Times, Serif;
+    font-family: 'Microsoft YaHei', 微软雅黑, Consolas, 'DejaVu Serif', 'Times New Roman', Times, Serif;
     font-weight: normal;
 }
 h1 small, h1 a, h1 a:hover,
@@ -35,7 +35,9 @@ a {
 hr {
     border-width: 3px;
 }
-
+body {
+    font-family: 'Microsoft YaHei', 微软雅黑, "Lato",  sans-serif;
+}
 /* site title */
 .site-name {
     font-family: 'Monaco', 'Inconsolata', 'Andale Mono', 'Lucida Console', 'Bitstream Vera Sans Mono', 'Courier New', Courier, Monospace;
